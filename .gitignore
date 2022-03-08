@@ -1,4 +1,0 @@
-*.py
-*.net
-!third.net
-[aeiou]*.php
